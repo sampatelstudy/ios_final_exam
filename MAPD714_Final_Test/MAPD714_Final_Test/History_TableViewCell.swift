@@ -12,7 +12,6 @@ class History_TableViewCell: UITableViewCell {
     var bmi_table_lbl: UILabel!
     var category_table_lbl: UILabel!
     var date_table_lbl: UILabel!
-//    var cellView: UIView!
     
     
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
